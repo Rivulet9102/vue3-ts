@@ -1,19 +1,20 @@
-# vue3_ts_demo2
 
-## Project setup
-```
+
+# Vite + Vue3 + Typescript + Element-plus 
+
+# 安装依赖模块
+
 npm install
-```
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
 
-### Compiles and minifies for production
-```
+# 开启一个本地服务 localhost:3000
+
+npm run dev
+
+
+# 打包
+
 npm run build
-```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+# 问题
+https://blog.csdn.net/huanglgln/article/details/121774409
