@@ -19,7 +19,7 @@ const routes: Array<RouteRecordRaw> = [
             keepAlive: true,
             requireAuth: true
         },
-        component: () => import('@/layout/index.vue'),
+        component: () => import('@/components/layout/index.vue'),
         children: [
             {
                 path: '/home',
